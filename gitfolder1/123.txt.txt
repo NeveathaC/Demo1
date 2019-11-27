@@ -1,1 +1,1 @@
-this file is in git that is edited to see the changes after committed
+this file is in git that is edited to see the changes after committed before 
